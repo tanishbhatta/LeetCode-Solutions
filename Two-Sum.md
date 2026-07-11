@@ -1,4 +1,4 @@
-# Two Sum using hash map
+# 1. Two Sum
 
 ## Intuition
 
