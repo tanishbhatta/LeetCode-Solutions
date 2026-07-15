@@ -94,9 +94,9 @@ As the repository grows, it will include solutions across major algorithmic patt
 | Difficulty | Solved |
 | ---------- | -----: |
 | Easy       |      3 |
-| Medium     |      3 |
+| Medium     |      4 |
 | Hard       |      0 |
-| **Total**  |  **6** |
+| **Total**  |  **7** |
 
 ---
 
