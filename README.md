@@ -24,36 +24,6 @@ Each problem includes a detailed `README.md` explaining the intuition, approach,
 
 ---
 
-## Repository Structure
-
-```text
-LeetCode/
-|
-├── 217-Contains-Duplicate/
-│   ├── README.md
-│   └── solution.py
-│
-├── 347-Top-K-Frequent-Elements/
-│   ├── README.md
-│   └── solution.py
-|
-├── 049-Group-Anagrams/
-│   ├── README.md
-│   └── solution.py
-|
-├── 001-Two-Sum/
-│   ├── README.md
-│   └── solution.py
-│
-├── 242-Valid-Anagram/
-│   ├── README.md
-│   └── solution.py
-│
-└── ...
-```
-
----
-
 ## Every Solution Includes
 
 * Problem Overview
