@@ -84,14 +84,3 @@ Each element is visited once, and hash table lookups are **O(1)** on average.
 In the worst case, every element is unique and must be stored.
 
 ---
-
-## Concepts Practiced
-
-* Hash Tables (Dictionary)
-* Hash Set
-* Membership Testing
-* Single Pass Traversal
-* Time vs Space Trade-off
-* Pattern Recognition
-
----
