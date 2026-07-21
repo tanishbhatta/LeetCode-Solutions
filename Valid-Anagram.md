@@ -96,17 +96,3 @@ Each unique character is stored once in the dictionaries.
 * Character Counting
 
 ---
-
-## Pattern Learned
-
-Whenever a problem asks:
-
-* Are two strings identical regardless of order?
-* Do two sequences contain the same elements with the same frequencies?
-* Compare occurrences of values.
-
-Think about using a **frequency map (hash table)**.
-
-A frequency map transforms repeated counting into a single linear traversal.
-
----
