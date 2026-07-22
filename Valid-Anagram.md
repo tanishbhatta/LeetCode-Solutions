@@ -86,13 +86,3 @@ Each string is traversed once.
 Each unique character is stored once in the dictionaries.
 
 ---
-
-## Concepts Practiced
-
-* Hash Tables (Dictionary)
-* Frequency Counting
-* Dictionary Comparison
-* String Traversal
-* Character Counting
-
----
