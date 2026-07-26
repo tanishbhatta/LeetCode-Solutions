@@ -10,7 +10,6 @@ Each problem includes a detailed `README.md` explaining the intuition, approach,
 
 * Solve LeetCode problems consistently.
 * Strengthen algorithmic thinking and problem-solving skills.
-* Build a well-documented reference for future revision.
 * Track personal progress from beginner to advanced.
 
 ---
