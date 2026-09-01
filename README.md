@@ -2,9 +2,7 @@
 
 A collection of my LeetCode solutions as I progress through **Data Structures & Algorithms (DSA)**. This repository is more than a collection of accepted submissions—it's a learning journal documenting my problem-solving process, algorithmic patterns, and continuous growth as a software engineer.
 
-Each problem includes a detailed `README.md` explaining the intuition, approach, complexity analysis, key DSA concepts, and lessons learned alongside the Python implementation.
-
----
+Each problem includes a detailed `README.md` explaining the intuition, approach, complexity analysis, key DSA concepts, and lessons learned.
 
 ## Goals
 
@@ -61,35 +59,20 @@ As the repository grows, it will include solutions across major algorithmic patt
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      4 |
-| Medium     |      4 |
+| Easy       |      5 |
+| Medium     |      5 |
 | Hard       |      0 |
 | **Total**  |  **8** |
 
 ---
 
-## Learning Philosophy
-
-I believe that understanding algorithms is far more valuable than memorizing solutions.
-
-Instead of simply collecting accepted submissions, I document every problem to help myself answer questions such as:
-
-* Why does this algorithm work?
-* Which DSA pattern does it belong to?
-* What key insight unlocks the problem?
-* What concepts can I reuse in future problems?
-
-My goal is to build strong algorithmic intuition, improve my problem-solving skills, and create a knowledge base that I can revisit throughout my software engineering journey.
-
----
-
-## 🤝 Contributing
+## Contributing
 
 This repository is primarily a personal learning archive, but suggestions, improvements, and discussions are always welcome.
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 Problems are provided by **LeetCode**. Solutions, documentation, and explanations are my own implementations and notes created while learning Data Structures & Algorithms.
 
