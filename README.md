@@ -14,7 +14,7 @@ Each problem includes a detailed `README.md` explaining the intuition, approach,
 
 ## Tech Stack
 
-* **Language:** Python 3
+* **Language:** C++ & Python 3
 * **Platform:** LeetCode, VS-code
 * **Version Control:** Git & GitHub
 
