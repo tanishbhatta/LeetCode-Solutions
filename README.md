@@ -59,10 +59,10 @@ As the repository grows, it will include solutions across major algorithmic patt
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      5 |
+| Easy       |      6 |
 | Medium     |      5 |
 | Hard       |      0 |
-| **Total**  |  **8** |
+| **Total**  |  **11** |
 
 ---
 
